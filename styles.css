@@ -2,8 +2,9 @@ html {
     background-color: rgb(0, 255, 234)
 }   
 
-* {
+h1, div {
     text-align: center;
+    
 }
 
 h1 {
