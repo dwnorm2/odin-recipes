@@ -25,7 +25,7 @@ img {
     font-size: larger;
     text-align: left;
     list-style-position: inside;
-    list-style-image: url(/Users/danielnorman/repos/odin-recipes/images/banana.PNG)
+    list-style-image: url(images/banana.png)
 }
 
 .home_link {
