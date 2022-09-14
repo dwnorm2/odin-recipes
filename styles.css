@@ -2,6 +2,10 @@ html {
     background-color: rgb(0, 255, 234)
 }   
 
+* {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
 h1, div {
     text-align: center;
     
@@ -9,4 +13,27 @@ h1, div {
 
 h1 {
     color: hotpink;
+    font-size: 300%;
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.front_list {
+    font-size: larger;
+    text-align: left;
+    list-style-position: inside;
+    list-style-image: url(/Users/danielnorman/repos/odin-recipes/images/banana.png)
+}
+
+.home_link {
+    color: hotpink;
+    font-size: 150%;
+    display:block;
+    text-align:center
+}
+
+
+
