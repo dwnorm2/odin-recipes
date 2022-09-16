@@ -23,9 +23,11 @@ img {
 
 .front_list {
     font-size: larger;
-    text-align: left;
+    display: flex;
     list-style-position: inside;
-    list-style-image: url(images/banana.png)
+    list-style-image: url(images/banana.png);
+    align-items:center;
+    justify-content: center;
 }
 
 .home_link {
@@ -40,9 +42,7 @@ img {
     
 }
 
-* {
-    border: 2px solid red;
-  }
+
 
 
 
