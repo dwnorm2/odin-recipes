@@ -4,6 +4,7 @@ html {
 
 * {
     font-family: "Comic Sans MS", "Comic Sans", "Marker Felt";
+    box-sizing: border-box;
 }
 
 h1, div {
@@ -34,7 +35,7 @@ img {
     color: hotpink;
     font-size: 150%;
     display:block;
-    text-align:center
+    text-align:center;
 }
 
 .hover:hover {
@@ -46,7 +47,16 @@ img {
     padding: 1em;
 }
 
-
+footer {
+    color: black;
+    text-align: center;
+    border: 1px hotpink solid;
+    max-width: 150px;
+    margin: 30px auto;
+    font-size: 12px;
+    
+    
+}
 
 
 
