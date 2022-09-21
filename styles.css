@@ -27,7 +27,7 @@ img {
     display: flex;
     list-style-position: inside;
     list-style-image: url(images/banana.png);
-    align-items:center;
+    
     justify-content: center;
 }
 
@@ -54,10 +54,12 @@ footer {
     max-width: 150px;
     margin: 30px auto;
     font-size: 12px;
-    
-    
 }
 
+
+    
+ 
+    
 
 
 
